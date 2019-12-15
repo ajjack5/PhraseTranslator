@@ -1,2 +1,2 @@
-# JobTranslator
-Realistic Job Translator - Convert a job ad into realistic expectations
+# PhraseTranslator
+Realistic Phrase Translator - Convert a phrase of text into a community-defined translated version
