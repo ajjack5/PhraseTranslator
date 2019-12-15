@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ajackass\\Desktop\\repos\\PhraseTranslator\\JobTranslator.Api\\PhraseTranslator.Api.csproj",
+      "projectUniqueName": "C:\\Users\\ajackass\\Desktop\\repos\\PhraseTranslator\\PhraseTranslator.Api\\PhraseTranslator.Api.csproj",
       "projectName": "PhraseTranslator.Api",
-      "projectPath": "C:\\Users\\ajackass\\Desktop\\repos\\PhraseTranslator\\JobTranslator.Api\\PhraseTranslator.Api.csproj",
+      "projectPath": "C:\\Users\\ajackass\\Desktop\\repos\\PhraseTranslator\\PhraseTranslator.Api\\PhraseTranslator.Api.csproj",
       "packagesPath": "C:\\Users\\ajackass\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ajackass\\Desktop\\repos\\PhraseTranslator\\JobTranslator.Api\\obj\\",
+      "outputPath": "C:\\Users\\ajackass\\Desktop\\repos\\PhraseTranslator\\PhraseTranslator.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
